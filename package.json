@@ -6,11 +6,11 @@
   "license": "MIT",
   "dependencies": {
     "next": "^4.0.0-beta.6",
-    "nextein": "^1.0.0-beta24",
+    "nextein": "^1.0.0-beta2",
     "react": "16",
     "react-dom": "16"
   },
   "scripts": {
-    "dev": "next"
+    "dev": "nextein"
   }
 }
