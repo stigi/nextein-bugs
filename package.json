@@ -1,0 +1,7 @@
+{
+  "name": "nexttest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ullrich Schäfer <ullrich@seidbereit.de>",
+  "license": "MIT"
+}
